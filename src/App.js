@@ -1,7 +1,5 @@
 import React from 'react';
-//import { Table,Col} from "react-bootstrap";
 import './FormBuilderHeader/_bahmniGlobal.scss';
-//import {Button, Row, Col} from 'react-bootstrap';
 import Tablists from "./Tabs/Tablists";
 
 class App extends React.Component{
