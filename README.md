@@ -3,6 +3,7 @@
 # bahmni-patient-tagging
 
 Welcome,
+<br>
 This repository contains the openmrs-owa-notification OpenMRS Open Web App.
 
 > Add a description of what your app does here.
