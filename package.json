@@ -44,7 +44,7 @@
     "react-bootstrap-table-next": "^0.1.15",
     "react-bootstrap-tabs": "^1.0.2",
     "react-breadcrumbs": "^2.1.6",
-    "react-dev-utils": "^5.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.4.1",
     "react-file-download": "^0.3.5",
     "react-live": "^1.11.0",
